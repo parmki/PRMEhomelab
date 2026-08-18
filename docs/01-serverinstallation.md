@@ -2,7 +2,7 @@
 
 ## Objective
 
-The objective of this project was to install and configure the server for reliable network connectivity and enable remote administration over SSH and Cockpit, allowing the system to operate without a dedicated monitor, keyboard, or mouse.
+My goal was to install and configure the server for reliable network connectivity and enable remote administration over SSH and Cockpit, allowing the system to work without a dedicated monitor, keyboard, or mouse.
 
 ## Environment
 

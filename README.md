@@ -7,14 +7,14 @@ The project is intended to provide hands on experience managing a Linux server i
 Develop the ability to confidently administer and manage a Linux server.
 Build practical networking knowledge and experience.
 Learn to troubleshoot and diagnose system and network problems independently.
-Gain experience with RHEL and enterprise Linux administration.
+Gain experience with RHEL and Linux administration.
 Prepare for the Red Hat Certified System Administrator (RHCSA) exam.
 Develop good practices for system security, maintenance, documentation, and backups.
 
 *Secondary Goals*
-Use the homelab to self-host and experiment with services such as:
+Use the homelab to selfhost and experiment with services such as:
 Immich
-Pi-hole
+Pi hole
 Web services
 Git services
 Other services as the project develops

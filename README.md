@@ -1,7 +1,7 @@
 # Prhomelab
-This is my personal homelab project, built to develop real experience in Linux system administration, networking, troubleshooting, security, and infrastructure management.
+This is my personal homelab project, my goal is to develop real experience in Linux system administration, networking, troubleshooting, security, and infrastructure management.
 
-The project is intended to provide hands on experience managing a Linux server in an environment that simulates some of the responsibilities of a real world systems administrator.
+This project is intended to provide hands on experience managing a Linux server in an environment that simulates some of the responsibilities of a real world systems administrator.
 
 *Main Goals*
 Develop the ability to confidently administer and manage a Linux server.
@@ -22,3 +22,4 @@ Other services as the project develops
 *Documentation Philosophy*
 This project will document not only the final configuration, but also the process of building and maintaining the environment.
 Problems, troubleshooting processes, design decisions, and lessons learned will be documented alongside successful configurations.
+*i will not be using ai for this project*

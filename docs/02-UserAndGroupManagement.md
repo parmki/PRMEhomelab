@@ -16,13 +16,13 @@ Created Linux groups representing the departments that currently require access 
 * `hr`
 * `shared`
 
-An experimental `engineering` group was created during testing and later removed after deciding it duplicated the purpose of the `developers` group.
+An engineering group was created during testing and later removed after i decided it had the same purpose as the developers group.
 
 ### User Provisioning
 
 I Created several "employee" accounts to simulate a multiuser environment. corresponding permmisions were assigned according to each employee's role, and i configured passwords to enable testing from non administrative accounts.
 
-Administrative tasks were performed using `sudo` rather than granting additional privileged group membership.
+Administrative tasks were done using `sudo` rather than granting additional privileged group membership.
 
 ### Company Directory Structure
 
@@ -80,7 +80,6 @@ This milestone marks the transition from initial server deployment toward routin
 * `chown`
 * `chmod`
 * `su`
-* `sudo`
 * Standard Unix file ownership and permission model
 * Setgid directories
 * Manual permission validation using multiple user accounts

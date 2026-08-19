@@ -36,3 +36,7 @@ Connectivity testing confirmed that the server was reachable from both the RHEL 
 The server now operates as a headless RHEL 10 system. Day-to-day administration can be performed remotely using SSH or Cockpit, eliminating the need for a permanently attached monitor, keyboard, or mouse.
 
 This configuration establishes the foundation for future work, including user and group management, storage administration, security hardening, service deployment, self-hosting services, and automation.
+
+## What I Learned
+
+This step gave me practical experience with networking and remote administration. Working through the setup improved my understanding of tools such as `nmcli`, `ip`, `systemctl`, `firewall-cmd`, and `ss`, as well as the relationship between network configuration, services, and remote access. I also learned the importance of troubleshooting methodically by verifying each component individually rather than assuming the source of a problem.

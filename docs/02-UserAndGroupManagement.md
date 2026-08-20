@@ -20,7 +20,7 @@ An engineering group was created during testing and later removed after i decide
 
 ### User Provisioning
 
-I Created several "employee" accounts to simulate a multiuser environment. corresponding permmisions were assigned according to each employee's role, and i configured passwords to enable testing from non administrative accounts.
+I created several "employee" accounts to simulate a multiuser environment. corresponding permmisions were assigned according to each employee's role, and i configured passwords to enable testing from non administrative accounts.
 
 Administrative tasks were done using `sudo` rather than granting additional privileged group membership.
 

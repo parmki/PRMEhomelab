@@ -22,4 +22,4 @@ Other services as the project develops
 *Documentation Philosophy*
 This project will document not only the final configuration, but also the process of building and maintaining the environment.
 Problems, troubleshooting processes, design decisions, and lessons learned will be documented alongside successful configurations.
-*i will not be using ai for this project*
+

@@ -2,7 +2,7 @@
 
 ## Objective
 
-Prepare the server for future development work by installing Git, organizing project directories, and making a few system configuration improvements.
+"Prepare" the server for future development work by installing Git and organizing project directorie. additionally made a few system configuration improvements.
 
 ---
 
@@ -36,13 +36,13 @@ Expanded the company workspace with project directories for different teams.
     |__ general
 ```
 
-Initialized each project directory as a local Git repository using `git init`.
+Initialized each project directory as a local Git repository using `git init -q`.
 
 ### Hostname and MOTD
 
 Changed the system hostname using Cockpit and verified the change with `hostnamectl`.
 
-Configured a custom Message of the Day (MOTD) by editing `/etc/motd`.
+Configured a custom Message of the Day (MOTD) by editing `/etc/motd` with nano.
 
 ### Minor Issue
 

@@ -1,4 +1,4 @@
-# 03 – Git Setup and Company Development Workspace
+# Git Setup and Company Development Workspace
 
 ## Objective
 

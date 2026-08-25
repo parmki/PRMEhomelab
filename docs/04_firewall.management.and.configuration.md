@@ -1,4 +1,4 @@
-# Session 04: Firewall Management And Configuration With Firewalld
+Firewall Management And Configuration With Firewalld
 
 ## Objective
 Learn how to manage the firewall on the server using firewalld, understanding zones, services, and the difference between runtime and permanent rules, 

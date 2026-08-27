@@ -6,7 +6,7 @@ My objective was to set up basic server automation with Bash scripts and cron. I
 
 ## Overview
 
-In this session I practiced turning normal Linux commands into reusable Bash scripts and then scheduling them with cron. I also tested the scripts manually and fixed a few small path, permission, and syntax issues along the way.
+In this session i practiced turning normal Linux commands into reusable Bash scripts and then scheduling them with cron. I also tested the scripts manually and fixed a few small path, permission, and syntax issues along the way.
 
 ## Writing the Scripts
 

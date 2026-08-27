@@ -2,7 +2,7 @@
 
 ## Objective
 
-Set up basic server automation with Bash scripts and cron. I configured automated company backups, a weekly system health report, and cleanup of old backups.
+My objective was to set up basic server automation with Bash scripts and cron. I configured automated company backups, a weekly system health report, and cleanup of old backups.
 
 ## Overview
 
@@ -33,10 +33,6 @@ I configured root's crontab with the three automated jobs:
 ```
 
 The backup runs Monday at 02:00, the health report runs Sunday at 18:00, and the cleanup runs Sunday at 03:00.
-
-I also learned that `crontab -l` is used to list jobs, while `crontab -e` is used to edit them.
-
-One small issue remains: the backup cron entry has `/user/bin/company_backup.sh` instead of `/usr/bin/company_backup.sh`, so I need to correct that path.
 
 ## Tasks Completed
 

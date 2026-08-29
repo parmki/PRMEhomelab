@@ -6,6 +6,4 @@ As the project has grown, I've reached a point where adding more isolated exerci
 
 The next stage of this homelab will focus on deploying services that solve real problems for me while continuing to expand my Linux knowledge. Rather than following structured exercises, I'll be learning through installation, configuration, troubleshooting, updates, backups, monitoring, and long-term maintenance.
 
-Some of the projects I'm planning to work on include Pi-hole for network-wide DNS filtering, Immich or another self-hosted storage solution, a locally hosted AI using Ollama, and any other services that become useful as my homelab grows. Once I move into my new home and have my permanent network set up, I'll also begin exposing and managing these services in a more realistic environment.
-
-This isn't the end of the homelab—it's the point where it stops being a collection of practice labs and starts becoming infrastructure that I rely on. I'll continue documenting new deployments, configuration changes, and lessons learned as the server grows alongside my own experience.
+Some of the projects I'm planning to work on include Pi hole for network wide DNS filtering, Immich or another self-hosted storage solution, a locally hosted AI using Ollama, and any other services that become useful as my homelab grows. 

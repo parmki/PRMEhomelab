@@ -1,5 +1,4 @@
-# Server RAM Upgrade — 8GB (2x4GB) to 16GB DDR3L
-
+# Server RAM Upgrade 
 ## Objective
 
 My objective was to upgrade the server's memory from 8GB to 16GB DDR3L by replacing the two 4GB modules with two 8GB modules.
@@ -10,11 +9,11 @@ In this session I checked the current RAM setup, shut the server down, swapped t
 
 ## Checking the Current Setup
 
-First I checked what was installed so I bought the right replacement. I ran `free -h` and `dmidecode -t memory`, which showed two 4GB DDR3 modules. I confirmed the max supported capacity in the server docs so 16GB would work.
+First I checked what was installed so I bought the right replacement. I ran `free -h` and `dmidecode -t memory`, which showed two 4GB DDR3L modules. I confirmed the max supported capacity in the server docs so 16GB would work.
 
 ## The Upgrade
 
-I bought two 8GB DDR3L modules since DDR3L (1.35V) is compatible with standard DDR3 slots. I shut the server down with `sudo shutdown now`, unplugged it, opened the case, and removed the two 4GB sticks. Then I installed the new 8GB modules, pushed them down until the clips clicked, closed the case, and powered it back on.
+I shut the server down with `sudo shutdown now`, unplugged it, opened the case, and removed the two 4GB sticks. Then I installed the new 8GB modules, pushed them down until the clips clicked, closed the case, and powered it back on.
 
 ## Verifying
 
@@ -29,7 +28,6 @@ Both modules were recognized with no issues.
 
 - Checked current RAM with `free -h` and `dmidecode`.
 - Confirmed 16GB was supported.
-- Bought two 8GB DDR3L modules.
 - Shut down the server and swapped the modules.
 - Booted up and verified 16GB was detected.
 

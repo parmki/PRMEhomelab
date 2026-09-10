@@ -1,4 +1,4 @@
-# Server RAM Upgrade 
+# Hardware Upgrade 
 ## Objective
 
 My objective was to upgrade the server's memory from 8GB to 16GB DDR3L by replacing the two 4GB modules with two 8GB modules.

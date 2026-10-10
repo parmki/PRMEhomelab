@@ -4,6 +4,10 @@ My personal homelab project focused on building practical experience in Linux sy
 
 The lab is designed to simulate some of the responsibilities of a real-world systems administrator while giving me a place to experiment, make mistakes, troubleshoot problems, and apply what I learn.
 
+## Status
+
+Finished for now. The lab is built, working, and documented, and it is not being actively worked on at the moment. See [docs/08_project.status.md](docs/08_project.status.md) for the wrap-up.
+
 ## Objectives
 
 * Build confidence administering and managing Linux servers.
